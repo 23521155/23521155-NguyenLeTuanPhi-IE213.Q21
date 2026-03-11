@@ -13,7 +13,7 @@
 # Danh sách các Lab
 
 ## Lab 01 - MONGODB - CRUD Operation
-
+## Lab 02 - THIẾT LẬP BACKEND VỚI NODEJS/EXPRESS
 
 # Mô tả ngắn gọn từng Lab
 
@@ -22,3 +22,8 @@
 - Kết nối tới MongoDB Atlas
 - Làm quen với MongoDB shell
 ---
+
+## Lab 02
+
+- Thiết lập môi trường nodejs
+- Tạo api đầu tiên lấy movies
