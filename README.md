@@ -14,6 +14,7 @@
 
 ## Lab 01 - MONGODB - CRUD Operation
 ## Lab 02 - THIẾT LẬP BACKEND VỚI NODEJS/EXPRESS
+## Lab 03 - HOÀN THIỆN BACKEND
 
 # Mô tả ngắn gọn từng Lab
 
@@ -27,3 +28,8 @@
 
 - Thiết lập môi trường nodejs
 - Tạo api đầu tiên lấy movies
+---
+
+## Lab 03
+
+- Tạo các api cong lại
