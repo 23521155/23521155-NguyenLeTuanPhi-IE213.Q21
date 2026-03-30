@@ -15,6 +15,7 @@
 ## Lab 01 - MONGODB - CRUD Operation
 ## Lab 02 - THIẾT LẬP BACKEND VỚI NODEJS/EXPRESS
 ## Lab 03 - HOÀN THIỆN BACKEND
+## Lab 04 - THIẾT LẬP FRONTEND VỚI REACTJS 
 
 # Mô tả ngắn gọn từng Lab
 
@@ -32,4 +33,12 @@
 
 ## Lab 03
 
-- Tạo các api cong lại
+- Tạo các api còn lại
+---
+
+## Lab04 
+
+- Thiết lập frontend 
+- Tạo các component đơn giản
+- Tạo định tuyến
+
