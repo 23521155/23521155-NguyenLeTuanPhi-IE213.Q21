@@ -16,6 +16,7 @@
 ## Lab 02 - THIẾT LẬP BACKEND VỚI NODEJS/EXPRESS
 ## Lab 03 - HOÀN THIỆN BACKEND
 ## Lab 04 - THIẾT LẬP FRONTEND VỚI REACTJS 
+## Lab 05 - XÂY DỰNG FRONTEND VỚI REACTJS
 
 # Mô tả ngắn gọn từng Lab
 
@@ -41,4 +42,10 @@
 - Thiết lập frontend 
 - Tạo các component đơn giản
 - Tạo định tuyến
+---
 
+## Lab05
+
+- Tạo class MovieDataService để gọi api về backend lấy dữ liệu
+- Viết component hiện list các phim 
+- Viết component hiện chi tiết của 1 phim
