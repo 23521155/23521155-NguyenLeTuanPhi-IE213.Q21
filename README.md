@@ -17,6 +17,7 @@
 ## Lab 03 - HOÀN THIỆN BACKEND
 ## Lab 04 - THIẾT LẬP FRONTEND VỚI REACTJS 
 ## Lab 05 - XÂY DỰNG FRONTEND VỚI REACTJS
+## Lab 06 - XÂY DỰNG FRONTEND VỚI REACTJS(tt)
 
 # Mô tả ngắn gọn từng Lab
 
@@ -49,3 +50,10 @@
 - Tạo class MovieDataService để gọi api về backend lấy dữ liệu
 - Viết component hiện list các phim 
 - Viết component hiện chi tiết của 1 phim
+---
+
+## Lab06
+
+- Hoàn thiện chức năng login
+- Thêm, sửa, xóa review
+- Tìm kiếm và phân trang
